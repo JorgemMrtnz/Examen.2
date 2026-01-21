@@ -1,0 +1,52 @@
+[
+    {
+        "id": "Tiro Normal",
+        "velocidad": 35,
+        "angulo": 45
+    },
+    {
+        "id": "Alta Velocidad",
+        "velocidad": 55,
+        "angulo": 30
+    },
+    {
+        "id": "Tiro Vertical",
+        "velocidad": 40,
+        "angulo": 80
+    },
+    {
+        "id": "Lanzamiento Corto",
+        "velocidad": 15,
+        "angulo": 20
+    },
+    {
+        "id": "Super Sónico",
+        "velocidad": 80,
+        "angulo": 45
+    },
+    {
+        "id": "Mortero Pesado",
+        "velocidad": 45,
+        "angulo": 70
+    },
+    {
+        "id": "Flecha Veloz",
+        "velocidad": 65,
+        "angulo": 15
+    },
+    {
+        "id": "Gravedad Cero (Sim)",
+        "velocidad": 25,
+        "angulo": 60
+    },
+    {
+        "id": "Tiro de Práctica",
+        "velocidad": 10,
+        "angulo": 45
+    },
+    {
+        "id": "Lanzamiento Extremo",
+        "velocidad": 75,
+        "angulo": 85
+    }
+]
